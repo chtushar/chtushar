@@ -1,5 +1,3 @@
-## Hello World
-
 <img src="https://raw.githubusercontent.com/chtushar/chtushar/master/resources/banner-1.png" alt="Tushar Choudhari">
 
 <p align="center">
