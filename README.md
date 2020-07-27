@@ -1,6 +1,6 @@
 ## Hello World
 
-<img src="https://raw.githubusercontent.com/chtushar/chtushar/master/resources/banner.png" alt="Tushar Choudhari">
+<img src="https://raw.githubusercontent.com/chtushar/chtushar/master/resources/banner-1.png" alt="Tushar Choudhari">
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/chtushar/count.svg" />
