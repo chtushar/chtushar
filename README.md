@@ -1,3 +1,1 @@
-### Hello World 👋
-
-- 🌱 I’m currently learning React.js
+![Tushar Choudhari](/header.png)
