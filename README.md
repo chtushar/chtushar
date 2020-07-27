@@ -1,6 +1,6 @@
 ## Hello World
 
-![Tushar Choudhari](/resources/banner.png)
+<img src="https://raw.githubusercontent.com/chtushar/chtushar/master/resources/banner.png" alt="Tushar Choudhari">
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/chtushar/count.svg" />
