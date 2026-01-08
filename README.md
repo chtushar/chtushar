@@ -1,3 +1,1 @@
-Hey! 👋
-
-My name is *Tushar Choudhari*. I'm currently building [fflags.com](https://fflags.com/?ref=github.com), a feature flag management solution for developers.
+Hi, I'm *Tushar*. I'm currently building [llmops.build](https://llmops.build/?ref=github.com), a pluggable LLMOps toolkit for TypeScript applications.
